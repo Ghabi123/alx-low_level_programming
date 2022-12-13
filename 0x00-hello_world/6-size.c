@@ -2,7 +2,7 @@
 /**
  * main - Entry point
  * Description: printing types size
- * Return: Always 0(success))
+ * Return: Always 0(success)
  */
 int main(void)
 {
