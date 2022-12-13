@@ -1,5 +1,9 @@
 #include<stdio.h>
-/*printing something*/
+/**
+ * main-Entry point
+ * Description: 'the program's description'
+ * Return: Always 0(success)
+ */
 int main(void)
 {
 	puts("Programming is like building a multilingual puzzle\n");
