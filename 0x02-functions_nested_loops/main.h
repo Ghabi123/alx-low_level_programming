@@ -1,9 +1,6 @@
-#include<unistd.h>
-/**
- * putchar: writes the caracter c to stdout
- * main-Entry point
- */
-int _putchar(char c)
-{
-	return (write(1, &c, 1));
-}
+#ifndef HOLBERTON_H_INCLUDED
+#define HOLBERTON_H_INCLUDED
+
+int _putchar(char);
+
+#endif
