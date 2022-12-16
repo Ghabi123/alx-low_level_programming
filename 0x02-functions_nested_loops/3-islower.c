@@ -1,11 +1,11 @@
 #include "main.h"
 /**
- *_islower - entry point. 
- *@c: formal caracter.
- *Return: 1 if successful. 0 otherwise.
- * 
+ * _islower - checks if a caracter is lowercase or not if yes it returns 1.
+ * otherwise returns 0.
+ * @c: Is the int value to be compared with the ASCII value
+ * Return: 1 if successful 0 otherwise.
  */
- int _islower(int c)
+int _islower(int c)
 {
 	if (c >= 97 && c <= 122)
 	{
