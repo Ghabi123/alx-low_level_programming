@@ -1,3 +1,5 @@
+#include "main.h"
+
 /**
  * *_strcpy - a function that copies a string pointed by src to paste it
  * @dest: A pointer to destination of string
